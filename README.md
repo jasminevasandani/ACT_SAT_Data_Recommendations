@@ -3,12 +3,14 @@
 ## Problem Statement
 The SAT is the most taken college admission test<sup>1</sup>, with 2,136,539 students<sup>2</sup> from the class of 2018 taking the test. Out of 3,651,200 total students in the class of 2018 in the US<sup>3</sup>, that's 59% of graduating seniors who took the SAT. Does the SAT need to focus on increasing its participation rates? Or, given that over a majority of high school students are now taking this test as a way to get into college, how are they performing? Is the rise in SAT test-takers contributing to the rise of students going to college?  
 
-Citations:
+**Citations**:
+<br>
 <sup>1</sup> https://www.collegeboard.org/releases/2018/more-than-2-million-students-in-class-of-2018-took-sat-highest-ever
 <br>
 <sup>2</sup> https://www.edweek.org/ew/articles/2018/10/31/sat-scores-rise-as-number-of-test-takers.html
 <br>
 <sup>3</sup> https://nces.ed.gov/programs/digest/d17/tables/dt17_219.10.asp
+
 ---
 ## Executive Summary
 **INTRODUCTION**
@@ -71,7 +73,8 @@ When analyzing the datasets, many findings about SAT and ACT test scores and par
 ## External Research
 In 2018, 2.1 million students from the class of 2018 took the SAT -- the highest ever.<sup>1</sup> In fact, there was a 27% increase in participation rates from the previous year.<sup>2</sup> SAT participation rates are so high that as of 2018, the test holds the title for "most widely used college admission test," beating the ACT where 1.91 million students took that test in the same year.<sup>3</sup> While the SAT can boast of this achievement, the data shows that there is a negative correlation between participation rates and test scores. That is, the higher the participation rate amongst all states and DC, the lower the average student test scores. This is alarming considering that high SAT scores are demanded by most universities and colleges. Contrary to the College Board's claim that the SAT offers "greater access and opportunity" for students who take their test, the more widely their test is offered, the higher the chances are of more students performing poorly. One notable example is Washington, DC, where students had among the highest participation rates of all states in 2017 - 2018, but earned the lowest test scores. Conversely, Minnesota had participation rates in the bottom 10 on a national scale in 2017-18, but earned the highest test scores. Taking a closer look at test scores, students were either performed very poorly or very well. But there were more students who performed poorly than well. If taking the SAT is a significant contributor to college acceptance, the SAT itself is posing a burden to students' access to college. Instead of focusing on increasing participation rates, the SAT show focus more test prep materials.  
 
-Citations
+**Citations**:
+<br>
 <sup>1</sup> https://www.collegeboard.org/releases/2018/more-than-2-million-students-in-class-of-2018-took-sat-highest-ever
 <br>
 <sup>2</sup> https://www.edweek.org/ew/articles/2018/10/31/sat-scores-rise-as-number-of-test-takers.html
