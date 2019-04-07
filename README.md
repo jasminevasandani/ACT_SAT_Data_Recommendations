@@ -1,5 +1,13 @@
 # SAT & ACT Data: Analyzing test scores and participation rates from 2017-18
 
+ - [Problem Statement](#Problem-Statement)
+ - [Executive Summary](#Executive-Summary)
+ - [ACT-SAT-Data-Recommendations.ipynb Contents](#ACT-SAT-Data-Recommendations.ipynb-Contents)
+ - [Data Dictionary](#Data-Dictionary)
+ - [External Research](#External-Research)
+ - [Conclusions & Recommendations](#Conclusions-&-Recommendations)
+ - [Data Sources](#Data-Sources)
+
 ## Problem Statement
 The SAT is the most taken college admission test<sup>1</sup>, with 2,136,539 students<sup>2</sup> from the class of 2018 taking the test. Out of 3,651,200 total students in the class of 2018 in the US<sup>3</sup>, that's 59% of graduating seniors who took the SAT. Does the SAT need to focus on increasing its participation rates? Or, given that over a majority of high school students are now taking this test as a way to get into college, how are they performing? Is the rise in SAT test-takers contributing to the rise of students going to college?  
 
